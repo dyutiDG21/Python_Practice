@@ -1,0 +1,3 @@
+Practicing linux commands.
+This is a practice session
+This shall help me remember the commands.

@@ -1,0 +1,22 @@
+total 64
+-rw-r--r-- 1 dyutidyutidg dyutidyutidg   55 Jul 30 17:35 alpha.txt
+drwxr-xr-x 2 dyutidyutidg dyutidyutidg 4096 Jul 30 17:35 backup
+-rw-r--r-- 1 dyutidyutidg dyutidyutidg   53 Jul 30 17:35 beta.txt
+-rw-r--r-- 1 dyutidyutidg dyutidyutidg   55 Jul 30 17:35 delta.txt
+-rw-r--r-- 1 dyutidyutidg dyutidyutidg 1640 Jul 30 17:13 file-list.txt
+drwxr-xr-x 2 dyutidyutidg dyutidyutidg 4096 Jul 30 17:34 final-practice
+-rw-r--r-- 1 dyutidyutidg dyutidyutidg    0 Jul 30 17:09 log1.txt
+-rw-r--r-- 1 dyutidyutidg dyutidyutidg    0 Jul 30 17:09 log2.txt
+-rw-r--r-- 1 dyutidyutidg dyutidyutidg    0 Jul 30 17:09 log3.txt
+-rw-r--r-- 1 dyutidyutidg dyutidyutidg   96 Jul 30 16:25 notes.txt
+drwxr-xr-x 3 dyutidyutidg dyutidyutidg 4096 Jul 30 16:05 projects
+-rw-r--r-- 1 dyutidyutidg dyutidyutidg    0 Jul 30 17:36 report.txt
+-rwxr-xr-x 1 dyutidyutidg dyutidyutidg   48 Jul 30 17:19 script.sh
+-rw-r--r-- 1 dyutidyutidg dyutidyutidg   73 Jul 30 17:14 session.txt
+drwxr-xr-x 2 dyutidyutidg dyutidyutidg 4096 Jul 30 17:09 text-backups
+-rw-r--r-- 1 dyutidyutidg dyutidyutidg   64 Jul 30 16:29 todo-backup.txt
+-rw-r--r-- 1 dyutidyutidg dyutidyutidg   64 Jul 30 16:16 todo-new.txt
+drwxr-xr-x 5 dyutidyutidg dyutidyutidg 4096 Jul 30 16:04 week1
+drwxr-xr-x 5 dyutidyutidg dyutidyutidg 4096 Jul 30 16:34 week1-backup
+drwxr-xr-x 2 dyutidyutidg dyutidyutidg 4096 Jul 30 16:50 week2
+Thu Jul 30 17:36:45 UTC 2026
